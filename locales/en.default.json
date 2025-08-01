@@ -1,0 +1,1 @@
+{ "general": { "accessibility": { "skip_to_content": "Skip to content" }, "pagination": { "previous": "Previous", "next": "Next" } }, "footer": { "copyright": "© {{ year }} {{ shop_name }}. All rights reserved." }, "sections": { "footer": { "brand_name": "Brand Name" } } } }
